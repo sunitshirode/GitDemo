@@ -1,0 +1,56 @@
+Assignment 1 :
+In Postman create new collection and add different request type like “Get / Post / Put / Delete”
+Use Example of “User” from “https://editor.swagger.io/” and Save request(if applicable) and response in text file for the following cases :
+Create User
+Get user
+Update user password
+Get user
+Delete user
+
+Check-in the collection to Git Hub
+
+1. Create User:
+POST - https://petstore.swagger.io/v2/user
+
+{
+  "id": 7,
+  "username": "SunitShirode",
+  "firstName": "Sunit",
+  "lastName": "Shirode",
+  "email": "abc@xyz,com",
+  "password": "aaaaaa",
+  "phone": "123456",
+  "userStatus": 0
+}
+
+
+
+2. Get USer:
+GET - https://petstore.swagger.io/v2/user/SunitShirode
+
+{
+    "id": 7,
+    "username": "SunitShirode",
+    "firstName": "Sunit",
+    "lastName": "Shirode",
+    "email": "abc@xyz,com",
+    "password": "aaaaaa",
+    "phone": "123456",
+    "userStatus": 0
+}
+
+
+3: Update user password
+
+PUT - https://petstore.swagger.io/v2/user/SunitShirode
+{
+    "id": 7,
+    "username": "SunitShirode",
+    "firstName": "Sunit",
+    "lastName": "Shirode",
+    "email": "abc@xyz,com",
+    "password": "bbbbbb",
+    "phone": "123456",
+    "userStatus": 0
+}
+
