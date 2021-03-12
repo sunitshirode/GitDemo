@@ -1,0 +1,13 @@
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\repo\PracticeC#\Pets\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.csprojAssemblyReference.cache
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+C:\repo\PracticeC#\Pets\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache
